@@ -16,13 +16,19 @@ We use the **RSNA Pneumonia Detection Challenge (Kaggle)** dataset curated by th
 ## Key Results
 
 Best 3-class DenseNet121 model (held-out test set):
+
 **Test Accuracy:** 0.7330
+
 **Balanced Accuracy:** 0.7364
 
 Binary (Healthy vs Sick; Sick = classes 1 or 2) using the same model predictions:
+
 **Accuracy:** 0.8853
+
 **Precision:** 0.9575
+
 **Recall:** 0.8669
+
 **F1:** 0.9099
 
 ## How to Run
