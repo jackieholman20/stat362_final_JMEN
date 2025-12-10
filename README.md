@@ -1,1 +1,1 @@
-# stat362finalproj
+# stat362_final_JMEN
